@@ -1,1 +1,1 @@
-# formacao-dvops
+# formacao-devops
