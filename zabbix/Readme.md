@@ -7,14 +7,14 @@ Para realizar testes, configurei o monitoramento da minha instancia Jenkins Serv
 
   Instalção do Zabbix Server realizado atraves de uma instancia EC2 na AWS com um banco de dados mySQL usando o serviço RDS também da AWS.
 
-  https://gitlab.com/rafaelrsr/formacaodevops/-/blob/main/zabbix/Install_zabbix_server.sh
+  https://github.com/rafael-rsr/formacao-devops/blob/main/zabbix/Install_zabbix_server.sh
   
 
 ### PASSO 2
 
   Instalação do Zabbix Agent na instancia EC2 do projeto Jenkins Server (https://gitlab.com/rafaelrsr/desafiojenkins):
 
-  https://gitlab.com/rafaelrsr/formacaodevops/-/blob/main/zabbix/install_zabbix_agent.sh
+  https://github.com/rafael-rsr/formacao-devops/blob/main/zabbix/install_zabbix_agent.sh
 
 ### PASSO 3
 
