@@ -1,3 +1,23 @@
 # FormacaoDevOps
 
-Após participar da Imersão DevOps Cloud Week (https://github.com/rafael-rsr/DevOps-Cloud-Week) pela Cloud Treinamentos, vou inciar a formação DevOps com Mentoria. Com certeza será mais um passo importante para buscar minha primeira oportunidade na área. Estou ansioso e animado para começar a documentar todos os projetos.
+Após participar da Imersão DevOps Cloud Week pela Cloud Treinamentos, iniciei a Formação DevOps com finalidade de aprender e trabalhar com as diversas ferramentas dessa cultura incrível. Segue meu portifólio das aulas e seus respectivos links até aqui.
+
+## Docker:
+https://github.com/rafael-rsr/formacao-devops/tree/main/docker
+
+https://github.com/rafael-rsr/formacao-devops/tree/main/docker-compose
+
+## Jenkins:
+https://github.com/rafael-rsr/formacao-devops/tree/main/jenkins
+
+## Desafio Jenkins:
+https://gitlab.com/rafaelrsr/desafiojenkins
+
+## Zabbix
+https://github.com/rafael-rsr/formacao-devops/tree/main/zabbix
+
+## Grafana
+https://github.com/rafael-rsr/formacao-devops/tree/main/grafana
+
+## Nexus
+https://github.com/rafael-rsr/formacao-devops/tree/main/Nexus
