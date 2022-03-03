@@ -3,9 +3,9 @@
 Após participar da Imersão DevOps Cloud Week pela Cloud Treinamentos, iniciei a Formação DevOps com finalidade de aprender e trabalhar com as diversas ferramentas dessa cultura incrível. Segue meu portifólio das aulas e seus respectivos links até aqui.
 
 ## Docker:
-https://github.com/rafael-rsr/formacao-devops/tree/main/docker
+[Docker] (https://github.com/rafael-rsr/formacao-devops/tree/main/docker)
 
-https://github.com/rafael-rsr/formacao-devops/tree/main/docker-compose
+[Docker Compose](https://github.com/rafael-rsr/formacao-devops/tree/main/docker-compose)
 
 ## Jenkins:
 https://github.com/rafael-rsr/formacao-devops/tree/main/jenkins
