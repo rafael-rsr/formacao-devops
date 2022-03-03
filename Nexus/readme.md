@@ -5,7 +5,7 @@ Usei um script de inicialização (userdata.sh) para assim que provisionar a ins
 
 Configuramos um backut S3 para gerenciar o armazenamento e iniciamos um gerenciamento do repositorio yum como teste. 
     
-https://gitlab.com/rafaelrsr/formacaodevops/-/blob/develop/modulo-nexus/userdata.sh
+[Script Utilizado](https://github.com/rafael-rsr/formacao-devops/blob/main/Nexus/userdata.sh)
 
 # DASHBOARD CRIADO
 
