@@ -8,16 +8,16 @@ Após participar da Imersão DevOps Cloud Week pela Cloud Treinamentos, iniciei 
 [Docker Compose](https://github.com/rafael-rsr/formacao-devops/tree/main/docker-compose)
 
 ## Jenkins:
-https://github.com/rafael-rsr/formacao-devops/tree/main/jenkins
+[Jenkins](https://github.com/rafael-rsr/formacao-devops/tree/main/jenkins)
 
 ## Desafio Jenkins:
-https://gitlab.com/rafaelrsr/desafiojenkins
+[Desafio Jenkins](https://gitlab.com/rafaelrsr/desafiojenkins)
 
 ## Zabbix
-https://github.com/rafael-rsr/formacao-devops/tree/main/zabbix
+[Zabbix](https://github.com/rafael-rsr/formacao-devops/tree/main/zabbix)
 
 ## Grafana
-https://github.com/rafael-rsr/formacao-devops/tree/main/grafana
+[Grafana](https://github.com/rafael-rsr/formacao-devops/tree/main/grafana)
 
 ## Nexus
-https://github.com/rafael-rsr/formacao-devops/tree/main/Nexus
+[Nexus](https://github.com/rafael-rsr/formacao-devops/tree/main/Nexus)
